@@ -29,10 +29,10 @@ In the current simulation:
 *   **Peak Hot-Spot Temperature:** 114.74°C (Exceeding the 110°C threshold due to high ambient temperatures).
 *   **Observation:** Even without exceeding %100 load, high ambient temperatures combined with EV peaks significantly accelerate the insulation aging.
 
-## 📂 How to Run
+##  How to Run
 1. Clone the repository: `git clone [https://github.com/HafisQuliyev/Transformer-Aging-Analysis-IEEE.git](https://github.com/HafisQuliyev/Transformer-Aging-Analysis-IEEE.git)`
 2. Install dependencies: `pip install pandas numpy`
 3. Run the analysis: `python main.py`
 
-## 📊 Results and Visualizations
+##  Results and Visualizations
 <img width="1217" height="1017" alt="Ekran görüntüsü 2026-05-04 232154" src="https://github.com/user-attachments/assets/3979dec3-42c3-4833-8825-575d4d52a338" />
