@@ -32,7 +32,7 @@ In the current simulation:
 ##  How to Run
 1. Clone the repository: `git clone [(https://github.com/hafisQ-dev/Transformer-Aging-Analysis-IEEE-C57.91.git)]
 2. Install dependencies: `pip install pandas numpy`
-3. Run the analysis: `python main.py`
+3. Run the analysis: `python3 LOL_transformer.py`
 
 ##  Results and Visualizations
 <img width="1217" height="1017" alt="Ekran görüntüsü 2026-05-04 232154" src="https://github.com/user-attachments/assets/3979dec3-42c3-4833-8825-575d4d52a338" />
