@@ -3,9 +3,6 @@
 Transformer Aging Analysis according to IEEE C57.91 Standards
 
 ---
-
-# Transformer Aging Analysis (IEEE C57.91)
-
 This project provides a comprehensive thermal modeling and insulation life assessment tool for oil-immersed transformers, specifically focusing on the impact of **Electric Vehicle (EV) charging loads**. The analysis is built upon the international **IEEE C57.91** standards.
 
 ##  Project Goal
