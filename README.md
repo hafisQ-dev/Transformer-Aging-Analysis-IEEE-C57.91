@@ -27,7 +27,7 @@ In the current simulation:
 *   **Observation:** Even without exceeding %100 load, high ambient temperatures combined with EV peaks significantly accelerate the insulation aging.
 
 ##  How to Run
-1. Clone the repository: `git clone [(https://github.com/hafisQ-dev/Transformer-Aging-Analysis-IEEE-C57.91.git)]
+1. Clone the repository: `git clone [(https://github.com/hafisQ-dev/transformer-aging-analysis-ieee-c57.91.git)]
 2. Install dependencies: `pip install pandas numpy`
 3. Run the analysis: `python3 LOL_transformer.py`
 
